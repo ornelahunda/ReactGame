@@ -1,0 +1,15 @@
+.wrapper {
+  background: rgb(175, 175, 175);
+  background-image: url('http://notgoaway.com/wp-content/uploads/2017/07/Spongebob-Wallpaper-64.jpg');
+  background-size: 1300px;
+  /* background-height:200px */
+  /* height: 100%; */
+  /* width:100%;  */
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  align-content: flex-start;
+  overflow: auto;
+  padding-bottom: 150px;
+
+}

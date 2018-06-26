@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "image": "https://vignette.wikia.nocookie.net/king-harkinian/images/4/47/Spongebob.png",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "https://vignette.wikia.nocookie.net/spongebobandfriendsadventures/images/4/40/Sponge-bob-square-pants13.jpg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "https://vignette.wikia.nocookie.net/spongebob/images/9/9f/Krabs_artwork.PNG",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "https://img.clipartxtras.com/4243816161f7a6e1dbbe8abf9e8edabc_32-best-scooby-doo-images-images-on-pinterest-clip-art-costume-spongebob-jellyfish-clipart_605-730.jpeg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "https://res.cloudinary.com/teepublic/image/private/s--G-sEUdGD--/t_Preview/b_rgb:ffffff,c_limit,f_jpg,h_630,q_90,w_630/v1446161353/production/designs/71233_0.jpg",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "https://vignette.wikia.nocookie.net/villains/images/0/04/Plankton.jpg",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "https://i.pinimg.com/originals/17/8c/40/178c402584446b2b0dc68a0b4fe762a3.jpg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "https://vignette.wikia.nocookie.net/spongebob/images/b/b7/Mermaid_Man.svg",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "https://vignette.wikia.nocookie.net/spongebob/images/a/a0/Sandy_Cheeks.svg",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "https://vignette.wikia.nocookie.net/spongebob/images/6/69/Pearl_krabs_image.PNG",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "https://vignette.wikia.nocookie.net/spongebob/images/d/d7/Fred.png",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "https://vignette.wikia.nocookie.net/spongebob/images/f/f2/Fishredguy.png",
+    "clicked": false
+  }
+]
+
+
+

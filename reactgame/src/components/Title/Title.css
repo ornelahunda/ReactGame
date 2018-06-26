@@ -1,0 +1,10 @@
+.title {
+  width: 100%;
+  text-align: left;
+  font-size: 2rem;
+  color: #444;
+  margin-left: -350px;
+  margin-bottom: 50px;
+  /* padding-left: 3%;
+  padding-right: 3%;   */
+}
